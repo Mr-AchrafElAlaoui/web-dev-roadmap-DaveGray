@@ -198,7 +198,7 @@
                     <input type="number" name="decade" id="decade" min="1950" max="2020" step="10" value="1980"
                         required>
                 </p>
-                <p>
+                <!-- <p>
                     <label for="coffee">Favorite Coffe:</label>
                     <select name="coffee" id="coffee" multiple size="5">
                         <optgroup label="Coffees">
@@ -214,6 +214,18 @@
                         <option value="other">Other</option>
 
                     </select>
+                </p> -->
+                <p>
+                    <label for="coffee">Favorite Coffee:</label>
+                    <input type="text" name="coffee" id="coffee" list="coffee-list">
+                    <datalist id="coffee-list">
+                        <option value="coffee">
+                        <option value="latte">
+                        <option value="espresso">
+                        <option value="cortado">
+                        <option value="americano">
+                        <option value="other">
+                    </datalist>
                 </p>
 
             </form>
