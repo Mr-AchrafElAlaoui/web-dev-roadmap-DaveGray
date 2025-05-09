@@ -18,6 +18,10 @@ p {
     color: purple;
 }
 
+p {
+    color: red;
+}
+
 .highlight {
     text-transform: uppercase;
     background-color: gold;
