@@ -2,8 +2,12 @@
     font-family: 'Courier New', Courier, monospace;
 
 }
-body {
+html { 
     font-size: 22px;
+}
+
+body {
+    
 }
 
 button, input, textarea, select {
