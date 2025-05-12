@@ -3,6 +3,10 @@ h1 {
     width: 50%;
 }
 
+main {
+    font-size: 2rem;
+}
+
 p {
     font-size: 2rem;
 }
