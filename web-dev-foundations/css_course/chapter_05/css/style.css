@@ -12,4 +12,6 @@
     margin-bottom: 2em;
     margin-left: 2em; */
     padding: 1.5em;
+    outline: 10px solid purple;
+    outline-offset: -15px;
 }
