@@ -12,3 +12,13 @@ body {
 /* input, button {
     font: inherit;
 } */
+
+p {
+    text-decoration: underline;
+    text-align: justify;
+    text-transform: capitalize;
+    
+
+
+
+}
