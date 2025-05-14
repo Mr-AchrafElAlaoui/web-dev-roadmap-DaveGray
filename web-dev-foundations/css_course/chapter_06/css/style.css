@@ -7,6 +7,7 @@ Typography is the way that text is arranged and presenyed.
 body {
     padding: 10%;
     font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 /* input, button {
@@ -17,8 +18,10 @@ p {
     text-decoration: underline;
     text-align: justify;
     text-transform: capitalize;
-    
-
-
-
+    text-indent: 2em;
+    line-height: 1.5;
+    letter-spacing: 0.1em;
+    word-spacing: 0.1em;
+    font-weight: normal;
+    font-style: italic;
 }
