@@ -11,3 +11,15 @@ a {
     cursor: pointer;
     color: blue;
 }
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color: dodgerblue;
+}
+
+a:active {
+    color:red;
+}
