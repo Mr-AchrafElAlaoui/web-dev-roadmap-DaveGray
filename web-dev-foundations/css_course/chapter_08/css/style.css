@@ -17,4 +17,7 @@ ul {
   list-style-position: outside;
   color : #00f;
   line-height: 1.6;
+  list-style-image: url(../images/checkmark.png);
+  list-style: square url(../images/checkmark.png) inside;
+
 }
