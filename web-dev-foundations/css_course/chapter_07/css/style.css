@@ -18,6 +18,8 @@ a:visited {
 
 a:hover, a:focus {
     color: dodgerblue;
+    opacity: 0.8;
+    background-color: gold;
 }
 
 a:active {
