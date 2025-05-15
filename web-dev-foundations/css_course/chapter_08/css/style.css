@@ -10,3 +10,11 @@ ol {
   list-style-type: none;
   padding: 0;
 }
+
+ul {
+  list-style-type: square;
+  text-align: center;
+  list-style-position: outside;
+  color : #00f;
+  line-height: 1.6;
+}
