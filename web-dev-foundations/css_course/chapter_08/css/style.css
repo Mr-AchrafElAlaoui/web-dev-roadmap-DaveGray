@@ -7,5 +7,6 @@ body {
 }
 
 ol {
-  list-style-type: upper-roman;
+  list-style-type: none;
+  padding: 0;
 }
