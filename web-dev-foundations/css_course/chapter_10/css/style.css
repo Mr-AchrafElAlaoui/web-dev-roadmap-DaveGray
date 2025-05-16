@@ -5,6 +5,13 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: right;
+  background-color: #000000;
+  margin: 0;
+}
 
 /* p {
   background-color: lightgray;
