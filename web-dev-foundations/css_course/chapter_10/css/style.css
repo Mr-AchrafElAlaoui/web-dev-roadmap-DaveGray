@@ -5,3 +5,12 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+main {
+  background-color: aqua;
+  width: 50%;
+}
+
+p {
+  background-color: lightgray;
+  
+}
