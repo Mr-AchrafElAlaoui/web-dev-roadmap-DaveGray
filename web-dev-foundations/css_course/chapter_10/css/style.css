@@ -5,12 +5,14 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
-main {
-  background-color: aqua;
-  width: 50%;
-}
-
 p {
   background-color: lightgray;
   
+}
+
+.opposite {
+  background-color: #333333;
+  color: whitesmoke;
+  padding: 4rem
+
 }
