@@ -22,3 +22,16 @@ nav {
     
 }
 
+h2 {
+    padding: 1rem;
+    background-color: gold;
+    border-radius: 2rem 2rem 0 0;
+    
+}
+
+ul {
+    list-style-type: none;
+}
+ li {
+    border-top: 1px solid #333333;
+ }
