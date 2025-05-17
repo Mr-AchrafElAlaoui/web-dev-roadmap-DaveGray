@@ -22,3 +22,7 @@ body {
   float: right;
   margin-left: 1rem;
 }
+
+.clear {
+  clear:both;
+}
