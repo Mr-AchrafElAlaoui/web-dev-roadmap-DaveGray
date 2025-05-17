@@ -34,5 +34,8 @@ body {
   text-align: center;
   color: #333333;
   column-span: all;
+}
 
+.nowrap {
+  white-space: nowrap;
 }
