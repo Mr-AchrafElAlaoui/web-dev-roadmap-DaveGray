@@ -12,3 +12,7 @@ body {
   color: #ffffff;
   padding: 1rem;
 }
+
+.left {
+  float: left;
+}
