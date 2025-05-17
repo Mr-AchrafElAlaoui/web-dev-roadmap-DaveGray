@@ -4,3 +4,11 @@ body {
   font-size: 1.5rem;
   font-family: "Roboto", sans-serif;
 }
+
+.block {
+  width : 30vw;
+  height: 30vw;
+  background-color: #000000;
+  color: #ffffff;
+  padding: 1rem;
+}
