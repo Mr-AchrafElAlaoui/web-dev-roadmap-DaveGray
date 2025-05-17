@@ -23,5 +23,7 @@ body {
   background-color: #333333;
   color: #ffffff;
   padding: 1rem;
+  break-inside: avoid;
+  /* break-before: column; */ 
 
 }
