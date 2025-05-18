@@ -33,3 +33,11 @@ body {
   padding: 1rem;
 }
 
+.absolute {
+  background-color: #0000ff;
+  /* position: static; The default */
+  position: absolute;
+  top: 0;
+  left:0;
+}
+
