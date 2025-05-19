@@ -51,3 +51,8 @@ body {
   left: 300px;
 }
 
+.fixed {
+  background-color: green;
+  position: fixed;
+}
+
