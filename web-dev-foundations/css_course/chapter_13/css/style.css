@@ -58,3 +58,10 @@ body {
   top: 100px;
 }
 
+.sticky {
+  background-color: #000;
+  position: sticky;
+  top: 0;
+
+}
+
