@@ -61,5 +61,6 @@ body {
 .sticky {
   background-color: #000;
   position: sticky;
+  top: 0;
 }
 
