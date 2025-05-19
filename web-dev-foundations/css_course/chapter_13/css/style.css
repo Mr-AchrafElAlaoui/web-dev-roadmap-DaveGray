@@ -54,5 +54,6 @@ body {
 .fixed {
   background-color: green;
   position: fixed;
+  top: 100px;
 }
 
