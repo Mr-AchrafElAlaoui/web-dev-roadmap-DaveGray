@@ -73,3 +73,10 @@ section {
 .blue { background-color: #00f;}
 .red { background-color: #f00;}
 .green { background-color: green;}
+
+header, footer {
+  color: #fff;
+  text-align: center;
+  height: 100px;
+  font-size: 5rem;
+}
