@@ -66,6 +66,9 @@ body {
 
 /* ==================================================== */
 
+html {
+  scroll-behavior: smooth;
+}
 section {
   height: 100vh;
 }
