@@ -85,3 +85,9 @@ header {
   position: sticky;
   top: 0;
 }
+
+footer {
+  background-color: #000;
+  position: fixed;
+  bottom: 0;
+}
