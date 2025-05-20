@@ -101,5 +101,13 @@ a:visited {
 }
 
 .social {
+  background-color: royalblue;
+  color: #fff;
+  font-size: inherit;
+  padding: 1rem;
+  position: fixed;
+  top:30%;
+  left: 0;
+  z-index: 1;
   
 }
