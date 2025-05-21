@@ -19,8 +19,8 @@ body {
   border: 1px solid #000;
 
   display: flex;
-  gap:1rem
-  justify-content: center;
+  /* gap: 1rem; */
+  justify-content: space-evenly;
 } 
 
 .box {
