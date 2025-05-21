@@ -22,8 +22,9 @@ body {
   gap: 1rem; 
   justify-content: center;
   align-items: center;
-  flex-direction: row-reverse;
-  flex-wrap: wrap;
+  /* flex-direction: row-reverse;
+  flex-wrap: wrap; */
+  flex-flow: row wrap;
 
 } 
 
