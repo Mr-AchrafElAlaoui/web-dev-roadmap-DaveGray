@@ -24,7 +24,7 @@ body {
   align-items: center;
   /* flex-direction: row-reverse;
   flex-wrap: wrap; */
-  flex-flow: row wrap;
+  flex-flow: row nowrap;
   align-content: space-evenly;
 
 } 
