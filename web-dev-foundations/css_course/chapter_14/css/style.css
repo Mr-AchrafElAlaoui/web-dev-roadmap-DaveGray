@@ -52,5 +52,6 @@ body {
   /* flex-grow: 2; */
   /* flex-shrink: 2; */
   flex: 2 2 250px;
+  order: -1;
 }
 
