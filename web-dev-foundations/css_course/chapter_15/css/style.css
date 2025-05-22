@@ -19,6 +19,14 @@ body {
     "ft ft ft ft ft ft ft ft ft"
 }
 
+.el {
+  background-color: rebeccapurple;
+  color: #fff;
+  
+  display: grid;
+  place-content: center;
+
+}
 
 .container {
   min-height: 400px;
