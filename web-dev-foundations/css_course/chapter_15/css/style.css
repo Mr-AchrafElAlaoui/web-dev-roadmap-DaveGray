@@ -28,6 +28,18 @@ body {
 
 }
 
+.header {
+  grid-area: hd;
+}
+
+.sidebare {
+  grid-area: sb;
+}
+
+.footer {
+  grid-area: ft;
+}
+
 .container {
   min-height: 400px;
   display: grid;
