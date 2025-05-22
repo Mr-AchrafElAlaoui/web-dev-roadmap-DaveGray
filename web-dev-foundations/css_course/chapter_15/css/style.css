@@ -16,7 +16,8 @@ body {
   grid-template-areas:
     "hd hd hd hd hd hd hd hd hd"
     "mn mn mn mn mn mn mn sb sb"
-    "ft ft ft ft ft ft ft ft ft"
+    "ft ft ft ft ft ft ft ft ft";
+  gap: 1rem;
 }
 
 .el {
@@ -32,7 +33,7 @@ body {
   grid-area: hd;
 }
 
-.sidebare {
+.sidebar {
   grid-area: sb;
   background-color: #00f;
 }
