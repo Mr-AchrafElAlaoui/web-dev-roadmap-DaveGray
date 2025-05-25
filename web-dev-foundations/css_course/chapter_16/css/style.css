@@ -30,6 +30,7 @@ body {
   font-family: "Nunito", sans-serif;
   min-height: 100vh;
 }
+
 .hero {
   border-bottom: 2px solid #000;
   padding: 20px;
@@ -38,6 +39,10 @@ body {
   align-items: center;
   gap: 30px;
 
+}
+
+.h1{
+  font-size: 500%;
 }
 
 .profile-pic-figure {
