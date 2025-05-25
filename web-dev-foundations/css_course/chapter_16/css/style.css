@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
 
 /* Begin Reset */
+
 * {
   margin: 0;
   padding: 0;
@@ -34,6 +35,8 @@ body {
   background-repeat: repeat-y, no-repeat;
   background-position: right center;
   background-size: 20%, auto; */
+  background: repeat-y right center url("../img/bubbles.png"), no-repeat linear-gradient(to left, steelblue, #fff);
+  background-size: 20%, auto ;
 
 }
 
