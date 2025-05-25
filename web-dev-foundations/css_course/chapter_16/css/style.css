@@ -39,6 +39,11 @@ body {
   align-items: center;
   gap: 30px;
 
+  background-color: rgb(251, 210, 156);
+  background-image: url(../img/map-2176x1451.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
 
 .h1{
