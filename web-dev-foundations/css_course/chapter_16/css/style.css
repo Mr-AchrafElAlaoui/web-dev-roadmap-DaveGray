@@ -89,3 +89,16 @@ body {
   width: 25%;
   height: auto;
 }
+
+.clip {
+  font-weight: 800;
+  font-size: 18rem;
+  text-align: center;
+  background-image: url("../img/scenic-2200x1331.png");
+  background-size: 100%;
+  text-transform: uppercase;
+  /* caniuse.com */
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
