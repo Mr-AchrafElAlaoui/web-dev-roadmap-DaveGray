@@ -19,3 +19,8 @@ body {
   flex-direction:column;
 }
 
+header, nav, main, footer {
+  display: grid;
+  place-content: center;
+}
+
