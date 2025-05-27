@@ -24,3 +24,8 @@ header, nav, main, footer {
   place-content: center;
 }
 
+header, footer {
+  position: sticky;
+  background-color: #1E293B;
+  color: whitesmoke;
+}
