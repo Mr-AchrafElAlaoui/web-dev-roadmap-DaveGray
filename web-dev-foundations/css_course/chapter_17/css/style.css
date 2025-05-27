@@ -31,3 +31,23 @@ header, footer {
   background-color: #1E293B;
   color: whitesmoke;
 }
+
+header {
+  top: 0;
+}
+
+nav {
+  background-color: #fff;
+  color: #000;
+  padding: 0.5rem;
+  border-bottom: 2px solid #000;
+}
+
+main {
+  flex-grow: 1;
+ 
+}
+
+footer {
+  bottom: 0;
+}
