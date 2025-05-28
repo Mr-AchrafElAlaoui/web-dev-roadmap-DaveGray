@@ -82,6 +82,11 @@ footer {
   align-items: center;
 }
 
+.card figure {
+  display: flex;
+  flex-flow: column nowrap;
+}
+
 
 /* || SMALL */
 @media screen and (min-width: 576px) {
