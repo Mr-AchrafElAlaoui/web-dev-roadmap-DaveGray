@@ -58,6 +58,12 @@ nav a:hover, nav a:focus {
 
 main {
   flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 1rem;
+
 }
 
 footer {
