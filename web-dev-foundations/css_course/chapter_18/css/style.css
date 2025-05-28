@@ -87,6 +87,11 @@ footer {
   flex-flow: column nowrap;
 }
 
+.card img {
+  border: 5px double #333;
+  border-radius: 50%;
+}
+
 
 /* || SMALL */
 @media screen and (min-width: 576px) {
