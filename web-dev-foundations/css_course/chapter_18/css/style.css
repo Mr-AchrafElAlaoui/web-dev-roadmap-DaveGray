@@ -17,6 +17,10 @@ img {
   white-space: nowrap;
 }
 /* || GENERAL STYLES */
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font: 1.5rem "Nunito", sans-serif;
   min-height: 100vh;
