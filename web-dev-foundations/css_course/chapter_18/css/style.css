@@ -157,17 +157,17 @@ footer {
 
 /* || MOBILE DEVICE LANDSCAPE  */
 @media screen and (max-height: 425px) and (min-aspect-ratio: 7/4) {
-  body {
-    background-color: dodgerblue;
-    background-image: radial-gradient(whitesmoke, dodgerblue);
-  }
-
-  h1,
-  h2 {
+  h1 {
     font-size: 1.5rem;
   }
 
   nav {
     display: none;
   }
+  main {
+    flex-flow: row nowrap;
+    justify-content: space-evenly;
+    align-items: stretch;
+  }
+  
 }
