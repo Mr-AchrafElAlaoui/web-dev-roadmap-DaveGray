@@ -169,5 +169,14 @@ footer {
     justify-content: space-evenly;
     align-items: stretch;
   }
+
+  .card {
+  width: main(calc(33% - 0.25rem), 200px);
+  }
+
+  .card figcaption,
+  .card p {
+    font-size: 1,25rem;
+  }
   
 }
