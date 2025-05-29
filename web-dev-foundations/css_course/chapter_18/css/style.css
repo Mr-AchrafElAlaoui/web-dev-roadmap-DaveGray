@@ -120,10 +120,10 @@ footer {
 
 /* || MEDIUM */
 @media screen and (min-width: 768px) {
-  body {
-    background-color: gold;
-    background-image: radial-gradient(whitesmoke, gold);
+  nav {
+    display: none;
   }
+  
 }
 
 /* || LARGE */
