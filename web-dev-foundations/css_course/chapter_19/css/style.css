@@ -32,11 +32,12 @@ body {
   flex-direction: column;
 }
 
-:where(header, footer, .card) {
+header, footer {
   position: sticky;
   background-color: #1e293b;
   color: whitesmoke;
   text-align: center;
+  z-index: 1;
 }
 
 header {
