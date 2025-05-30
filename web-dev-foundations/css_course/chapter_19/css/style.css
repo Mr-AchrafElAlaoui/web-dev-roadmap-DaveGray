@@ -32,7 +32,7 @@ body {
   flex-direction: column;
 }
 
-:is(header, footer, .card) {
+:where(header, footer, .card) {
   position: sticky;
   background-color: #1e293b;
   color: whitesmoke;
