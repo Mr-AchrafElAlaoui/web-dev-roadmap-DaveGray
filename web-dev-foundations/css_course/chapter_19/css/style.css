@@ -109,6 +109,10 @@ footer {
   border: 10px solid red;
 }
 
+.card:nth-child(2) {
+  background-color: papayawhip;
+
+}
 .card figcaption {
   font-weight: bolder;
   font-size: 2rem;
