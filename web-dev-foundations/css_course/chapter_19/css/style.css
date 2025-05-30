@@ -63,6 +63,10 @@ nav a:focus {
   color: hsla(0, 0%, 20%, 0.6);
 }
 
+nav a:active {
+  color: red;
+}
+
 main {
   flex-grow: 1;
   display: flex;
