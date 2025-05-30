@@ -122,8 +122,12 @@ footer {
 }
 
 .card figcaption::after {
-  content: " hello";
+  content: "hello";
   display: block;
+}
+
+.card figcaption::first-letter {
+  font-size: 3rem;
 }
 
 .card p {
