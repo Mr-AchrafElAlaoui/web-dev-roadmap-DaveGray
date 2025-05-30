@@ -139,6 +139,10 @@ footer {
 
 .card p::after {
   content: close-quote;
+  font-size: 3em;
+  position: absolute;
+  top: -0.25em;
+  right: -0.5em;
 }
 
 /* || SMALL */
