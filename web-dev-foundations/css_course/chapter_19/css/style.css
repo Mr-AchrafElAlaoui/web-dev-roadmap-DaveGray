@@ -105,7 +105,7 @@ footer {
   border-radius: 50%;
 }
 
-.card img[alt] {
+.card img:not([alt]) {
   border: 10px solid red;
 }
 
