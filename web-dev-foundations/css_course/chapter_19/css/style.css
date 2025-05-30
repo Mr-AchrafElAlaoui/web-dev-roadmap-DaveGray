@@ -105,6 +105,10 @@ footer {
   border-radius: 50%;
 }
 
+.card img[alt] {
+  border: 10px solid red;
+}
+
 .card figcaption {
   font-weight: bolder;
   font-size: 2rem;
