@@ -126,7 +126,7 @@ footer {
   display: block;
 }
 
-.card figcaption::first-letter {
+.card figcaption::first-letter { /*::first-line*/
   font-size: 3rem;
 }
 
