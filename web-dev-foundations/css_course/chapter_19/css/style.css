@@ -32,8 +32,7 @@ body {
   flex-direction: column;
 }
 
-header,
-footer {
+:is(header, footer, .card) {
   position: sticky;
   background-color: #1e293b;
   color: whitesmoke;
