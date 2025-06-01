@@ -12,7 +12,7 @@
   --FF: "Nunito", sans-serif;
   --FS: 1.5rem;
   --FS-XL: 3rem;
-  
+
   /* COLOR */
   --BGCOLOR: #475569;
   --ALT-BGCOLOR: #1E293B;
@@ -23,7 +23,7 @@
 
 /* || GENERAL STYLES */
 body {
-  font: 1.5rem "Nunito", sans-serif;
+  font: var(--FS) var(--FF);
   min-height: 100vh;
 
   background-color: var(--BGCOLOR);
