@@ -13,6 +13,11 @@
   --FS: 1.5rem;
   --FS-XL: 3rem;
 
+  /* GENERAL */
+  --PADDING: 0.5rem;
+  --SHADOWS: 0 5px 5px -5px var(--DARK-COLOR);
+  --BORDERS: 2px solid var(--DARK-COLOR);
+
   /* COLOR */
   --BGCOLOR: #475569;
   --ALT-BGCOLOR: #1E293B;
@@ -56,8 +61,9 @@ header {
 nav {
   background-color: var(--LIGHT-COLOR);
   color: var(--DARK-COLOR);
-  padding: 0.5rem;
-  border-bottom: 2px solid var(--DARK-COLOR);
+  padding: var(--PADDING);
+  border-bottom: var(--BORDERS);
+  box-shadow: var(--SHADOWS);
 }
 
 main {
