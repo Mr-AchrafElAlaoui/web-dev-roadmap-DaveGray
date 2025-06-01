@@ -10,6 +10,9 @@
 :root {
   /* COLOR */
   --BGCOLOR: #475569;
+  --ALT-BGCOLOR: #1E293B;
+  --RADIAL-COLOR: whitesmoke;
+  --LIGHT-COLOR: whitesmoke;
 }
 
 /* || GENERAL STYLES */
@@ -18,7 +21,7 @@ body {
   min-height: 100vh;
 
   background-color: var(--BGCOLOR);
-  background-image: radial-gradient(whitesmoke, var(--BGCOLOR));
+  background-image: radial-gradient(var(--RADIAL-COLOR), var(--BGCOLOR));
   display: flex;
   flex-direction: column;
 }
@@ -36,7 +39,7 @@ footer {
 header,
 footer {
   position: sticky;
-  background-color: #1E293B;
+  background-color: var(--ALT-BGCOLOR);
   color: whitesmoke;
 }
 
