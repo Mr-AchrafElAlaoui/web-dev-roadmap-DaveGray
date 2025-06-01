@@ -18,6 +18,9 @@
   --SHADOWS: 0 5px 5px -5px var(--DARK-COLOR);
   --BORDERS: 2px solid var(--DARK-COLOR);
 
+  /* SQUARE */
+  --SQUARE-BGCOLOR: papayawhip;
+  --SQUARE-SIZE: max(150px, 20vw);
   /* COLOR */
   --BGCOLOR: #475569;
   --ALT-BGCOLOR: #1E293B;
@@ -74,7 +77,7 @@ main {
   align-items: center;
   flex-flow: row wrap;
   gap: min(4vw, 15px);
-  
+
 
 
 }
