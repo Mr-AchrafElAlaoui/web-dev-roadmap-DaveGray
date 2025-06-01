@@ -29,6 +29,15 @@
   --DARK-COLOR: #000;
 }
 
+@media (prefers-color-scheme: dark) {
+  :root {
+    --BGCOLOR: #000;
+    --ALT-BGCOLOR: #333;
+    --RADIAL-COLOR: RGB(217,217, 200);
+    --SQUARE-BGCOLOR: RGB(202,174,202);
+  }
+}
+
 /* || GENERAL STYLES */
 body {
   font: var(--FS) var(--FF);
