@@ -97,6 +97,14 @@ main section {
   padding: var(--PADDING);
 }
 
+main aside {
+  background-color: hsla(0, 0%, 20%, 0.8);
+  color: var(--LIGHT-COLOR);
+  font-size: var(--FS-SM);
+  font-style: italic;
+  padding: var(--PADDING);
+}
+
 footer {
   bottom: 0;
 }
