@@ -105,6 +105,10 @@ main aside {
   padding: var(--PADDING);
 }
 
+.content {
+  margin-top: 20px;
+}
+
 footer {
   bottom: 0;
 }
