@@ -126,3 +126,7 @@ footer {
   font-size: var(--FS-XL);
   box-shadow: var(--SHADOWS);
 }
+
+@media screen and (min-width: 570px) {
+  
+}
