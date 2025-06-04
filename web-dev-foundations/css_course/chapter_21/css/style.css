@@ -128,5 +128,10 @@ footer {
 }
 
 @media screen and (min-width: 570px) {
+  main {
+    flex-flow: row nowrap;
+    justify-content: space-between;
+  }
+ 
   
 }
