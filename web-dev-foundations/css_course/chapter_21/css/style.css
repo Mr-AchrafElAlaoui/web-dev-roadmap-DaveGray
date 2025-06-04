@@ -81,6 +81,7 @@ nav {
 
 main {
   flex-grow: 1;
+  padding: var(--PADDING);
   display: grid;
   grid-template-columns: repeat(4, minmax(100px, 300px));
   gap: min(2vw, 20px);
@@ -143,8 +144,8 @@ a:focus {
 
 .square {
   background-color: var(--SQUARE-BGCOLOR);
-  width: var(--SQUARE-SIZE);
-  height: var(--SQUARE-SIZE);
+  /* width: var(--SQUARE-SIZE);
+  height: var(--SQUARE-SIZE); */
   border: var(--BORDERS);
   border-radius: 15px;
   display: grid;
