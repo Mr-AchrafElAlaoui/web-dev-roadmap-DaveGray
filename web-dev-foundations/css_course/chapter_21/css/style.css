@@ -113,6 +113,15 @@ footer {
   bottom: 0;
 }
 
+a:any-link {
+  color: firebrick;
+}
+
+a:hover,
+a:focus {
+  filter: brightness(150%);
+}
+
 /* || FEATURES */
 
 .square--highlight {
