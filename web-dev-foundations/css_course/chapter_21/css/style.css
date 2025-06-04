@@ -132,6 +132,14 @@ footer {
     flex-flow: row nowrap;
     justify-content: space-between;
   }
+
+  main section {
+    width: calc(70% -5px);
+  }
+
+  main aside {
+    width: clac(30% - 5px);
+  }
  
   
 }
