@@ -37,15 +37,15 @@ div {
 div:first-child {
   background-color: dodgerblue;
   /* transform: translateX(50%); */
-  transform: rotateX(180deg);
+  /* transform: rotateX(180deg); */
 }
 div:nth-child(2) {
   background-color: yellow;
   /* transform: translateY(-2rem); */
-  transform: rotateY(150deg);
+  /* transform: rotateY(150deg); */
 }
 div:last-child {
   background-color: limegreen;
   /* transform: translate(100%, -2rem); */
-  transform: rotateZ(45deg);
+  /* transform: rotateZ(45deg); */
 }
