@@ -33,3 +33,7 @@ div {
   display: grid;
   place-content: center;
 }
+
+div:first-child {
+  background-color: dodgerblue;
+}
