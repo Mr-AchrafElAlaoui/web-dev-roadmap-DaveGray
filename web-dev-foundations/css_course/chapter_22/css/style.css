@@ -37,3 +37,9 @@ div {
 div:first-child {
   background-color: dodgerblue;
 }
+div:nth-child(2) {
+  background-color: yellow;
+}
+div:last-child {
+  background-color: limegreen;
+}
