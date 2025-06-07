@@ -102,3 +102,10 @@ nav a {
     width: 80%;
     margin: auto;
 }
+
+nav a:any-link {
+    color: var(--HEADER-COLOR);
+    font-weight: bold;
+    text-decoration: none;
+    
+}
