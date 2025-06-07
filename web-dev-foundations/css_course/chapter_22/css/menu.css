@@ -84,3 +84,9 @@ nav {
         transform: scaleY(1);
     }
 }
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    flex-flow: column nowrap;  
+}
