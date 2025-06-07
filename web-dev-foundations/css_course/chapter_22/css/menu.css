@@ -69,8 +69,9 @@ header {
 }
 
 nav {
-    display: block;
+    display: none;
     transform-origin: top center;
+    animation: showMenu 0.5S ease-in-out forwards;
 }
 
 @keyframes showMenu {
@@ -108,4 +109,10 @@ nav a:any-link {
     font-weight: bold;
     text-decoration: none;
     
+}
+
+nav a:hover,
+nav a:focus {
+    transform: scale(1.2);
+    transition: all 0.3s;
 }
