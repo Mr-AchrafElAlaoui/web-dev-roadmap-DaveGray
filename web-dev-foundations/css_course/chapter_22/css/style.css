@@ -58,9 +58,10 @@ div:last-child {
 
 div:hover {
   background-color: midnightblue;
-  transition-property: background-color, transform;
+  /* transition-property: background-color, transform;
   transition-duration: 2s, 3s;
-  transition-delay: 0.5s;
+  transition-delay: 0.5s; */
+  transition: all 2s 0.5s;
 }
 
 div:last-child:hover {
