@@ -67,3 +67,20 @@ header {
 .menu-icon::after {
     transform: translate(-20px, 12px);
 }
+
+nav {
+    display: block;
+    transform-origin: top center;
+}
+
+@keyframes showMenu {
+    0% {
+        transform: scaleY(0);
+    }
+    80% {
+        transform: scaleY(1.2);
+    }
+    100% {
+        transform: scaleY(1);
+    }
+}
