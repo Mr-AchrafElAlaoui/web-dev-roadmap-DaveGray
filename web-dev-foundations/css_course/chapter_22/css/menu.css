@@ -33,3 +33,14 @@ header {
     flex-flow: row nowrap;
     justify-content: space-between;
 }
+
+.menu-button {
+    background-color: transparent;
+    border: none;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
