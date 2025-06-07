@@ -55,3 +55,15 @@ header {
     position: absolute;
     transition: all 0.5s;
 }
+
+.menu-icon::before,
+.menu-icon::after {
+    content: "";
+}
+
+.menu-icon::before {
+    transform: translate(-20px, -12px);
+}
+.menu-icon::after {
+    transform: translate(-20px, 12px);
+}
