@@ -93,5 +93,12 @@ nav ul {
 
 nav li {
     padding: 0.5rem;
-    border-top: 1px solid var(--HEADER-COLOR)
+    border-top: 1px solid var(--HEADER-COLOR);
+}
+
+nav a {
+    display: block;
+    text-align: center;
+    width: 80%;
+    margin: auto;
 }
