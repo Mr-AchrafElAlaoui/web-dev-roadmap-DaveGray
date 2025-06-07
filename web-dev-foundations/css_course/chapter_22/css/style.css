@@ -58,7 +58,12 @@ div:last-child {
 
 div:hover {
   background-color: midnightblue;
-  transition-property: background-color;
-  transition-duration: 2s;
+  transition-property: background-color, transform;
+  transition-duration: 2s, 3s;
   transition-delay: 0.5s;
+}
+
+div:last-child:hover {
+  transform: rotate(180deg);
+
 }
