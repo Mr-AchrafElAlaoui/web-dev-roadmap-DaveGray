@@ -62,14 +62,14 @@ body {
 /* incremental style changes */
 
 /* Blocks with modifiers */
-.btn--secondary {
+.header__btn--secondary {
   background-color: yellow;
 }
 
-.btn--lean {
+.header__btn--lean {
   transform: skewX(-10deg);
 }
 
-.btn--border-lg {
+.header__btn--border-lg {
   border: 5px solid whitesmoke;
 }
