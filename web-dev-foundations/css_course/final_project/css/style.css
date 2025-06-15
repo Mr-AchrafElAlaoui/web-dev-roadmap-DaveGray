@@ -284,6 +284,7 @@ a:active {
     border-radius: 15px;
     background-color: var(--HIGHLIGHT-COLOR);
     color: var(--BUTTON-COLOR);
+    font-weight: bold;
 }
 
 /* || MENU */
