@@ -1,1 +1,1 @@
-JavaScript Course (Web Dev Foundations)
+JavaScript Course (Web Dev Foundations).
